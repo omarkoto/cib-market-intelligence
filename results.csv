@@ -1,0 +1,25 @@
+question,expected,precision_at_5
+What were the company's quarterly profits and earnings per share?,earn,0.0
+Which company reported a net loss for the year?,earn,0.0
+What dividend did the company declare for shareholders?,earn,0.0
+Which company agreed to acquire another company?,acq,0.0
+Who made a takeover bid for the company's shares?,acq,0.0
+What stake did the investor buy in the company?,acq,0.0
+What did OPEC decide about oil output?,crude,0.0
+What is happening to crude oil prices?,crude,0.0
+How much oil is being produced by the Gulf countries?,crude,0.0
+What is the trade deficit between the US and Japan?,trade,0.0
+Which tariffs or import restrictions were announced?,trade,0.0
+What are the trade talks about exports and imports?,trade,0.0
+What is happening to the dollar against the yen?,money-fx,0.0
+Did central banks intervene in the currency market?,money-fx,0.0
+How is the exchange rate of the mark changing?,money-fx,0.0
+Did the Federal Reserve change interest rates?,interest,0.0
+What happened to the bank prime lending rate?,interest,0.0
+Why are interest rates rising or falling?,interest,0.0
+What is happening to tankers in the Gulf?,ship,0.0
+Which shipping company has problems with its vessels?,ship,0.0
+What is the news about port strikes and cargo ships?,ship,0.0
+How much wheat is being exported?,grain,0.0
+What is the news about the corn harvest and crop prices?,grain,0.0
+Did the government buy grain from farmers?,grain,0.0

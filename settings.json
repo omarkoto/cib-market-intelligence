@@ -1,0 +1,5 @@
+{
+  "provider": "groq",
+  "groq_model": "openai/gpt-oss-120b",
+  "ollama_model": "llama3.2:3b"
+}
